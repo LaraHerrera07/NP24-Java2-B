@@ -1,4 +1,4 @@
-package br.com.senaisp.bauru.richard.secao01;
+package br.com.senaisp.bauru.lara.secao01;
 
 public class HelloWorld {
 

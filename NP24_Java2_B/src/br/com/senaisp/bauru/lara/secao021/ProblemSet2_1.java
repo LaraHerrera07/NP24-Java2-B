@@ -1,4 +1,4 @@
-package br.com.senaisp.bauru.richard.secao02;
+package br.com.senaisp.bauru.lara.secao021;
 
 public class ProblemSet2_1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package br.com.senaisp.bauru.richard.secao03;
+package br.com.senaisp.bauru.lara.secao031;
 
 public class Variables01 {
 

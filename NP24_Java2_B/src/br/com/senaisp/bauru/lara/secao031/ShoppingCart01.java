@@ -1,4 +1,4 @@
-package br.com.senaisp.bauru.richard.secao03;
+package br.com.senaisp.bauru.lara.secao031;
 
 public class ShoppingCart01 {
     public static void main(String[] args) {

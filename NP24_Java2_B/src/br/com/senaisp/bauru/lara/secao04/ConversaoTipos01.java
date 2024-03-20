@@ -1,4 +1,4 @@
-package br.com.senaisp.bauru.richard.secao04;
+package br.com.senaisp.bauru.lara.secao04;
 
 public class ConversaoTipos01 {
 

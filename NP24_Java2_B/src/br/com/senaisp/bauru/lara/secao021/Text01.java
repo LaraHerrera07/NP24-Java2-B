@@ -1,4 +1,4 @@
-package br.com.senaisp.bauru.richard.secao02;
+package br.com.senaisp.bauru.lara.secao021;
 
 public class Text01 {
 	/**
